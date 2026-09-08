@@ -41,6 +41,8 @@ export const IconNumbers = make(<><path d="M10 6.5h10" /><path d="M10 12h10" /><
 export const IconChecklist = make(<><path d="M11 7h9" /><path d="M11 17h9" /><path d="m3.2 7 1.6 1.6L8 5.4" /><rect x="3.2" y="14.2" width="4.8" height="4.8" rx="1.2" /></>);
 export const IconQuote = make(<><path d="M4.5 5v14" /><path d="M9 8.5h11" /><path d="M9 15.5h8" /></>);
 export const IconCode = make(<><path d="m8.5 8.5-4 3.5 4 3.5" /><path d="m15.5 8.5 4 3.5-4 3.5" /><path d="m13.4 5.5-2.8 13" /></>);
+export const IconEmbed = make(<><rect x="3.5" y="4.5" width="17" height="15" rx="2" /><path d="m9 9-3 3 3 3" /><path d="m15 9 3 3-3 3" /></>);
+export const IconPreview = make(<><path d="M2.8 12s3.2-5.2 9.2-5.2 9.2 5.2 9.2 5.2-3.2 5.2-9.2 5.2S2.8 12 2.8 12Z" /><circle cx="12" cy="12" r="2.4" /></>);
 export const IconUndo = make(<><path d="M4 9.5h9.5a5 5 0 0 1 0 10H8" /><path d="M7.5 5.5 4 9.5l3.5 4" /></>);
 export const IconRedo = make(<><path d="M20 9.5h-9.5a5 5 0 0 0 0 10H16" /><path d="m16.5 5.5 3.5 4-3.5 4" /></>);
 export const IconSignOut = make(<><path d="M14 7V5.5A1.5 1.5 0 0 0 12.5 4h-6A1.5 1.5 0 0 0 5 5.5v13A1.5 1.5 0 0 0 6.5 20h6a1.5 1.5 0 0 0 1.5-1.5V17" /><path d="M10 12h10" /><path d="m17 8.5 3.5 3.5L17 15.5" /></>);
